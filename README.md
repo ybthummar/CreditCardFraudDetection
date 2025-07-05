@@ -106,5 +106,3 @@ pip install pandas numpy matplotlib seaborn scikit-learn
 
 Created by [Yug Thummar](mailto:yugthummar001@gmail.com)  
 GitHub: [ybthummar](https://github.com/ybthummar)
-# CreditCardFraudDetection
-# CreditCardFraudDetection
